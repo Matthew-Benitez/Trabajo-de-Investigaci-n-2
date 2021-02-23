@@ -8,7 +8,7 @@
       - Lograr determinar el circuito en serie que es equivalente a un circuito en paralelo.
 2. MARCO TEÓRICO
 
-  
+  ![0001](https://user-images.githubusercontent.com/76133212/108802132-952f8c00-7565-11eb-9f98-22ddc04d72b6.jpg)
 
 3. DESARROLLO
 
