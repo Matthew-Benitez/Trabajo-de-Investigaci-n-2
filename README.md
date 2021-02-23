@@ -1,4 +1,4 @@
-# Circuitos En Paralelo
+# Circuitos RC En Paralelo
 1.  OBJETIVOS
     - Objetivo General:
       - Comprender y analizar los circuitos en paralelo que poseen capacitores y corriente alterna.
