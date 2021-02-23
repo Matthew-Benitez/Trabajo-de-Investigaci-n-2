@@ -112,6 +112,9 @@
 
 7. CONCLUSIONES
 
-
+   - Como se ha estudiado en los circuitos resistivos en paralelo, la corriente total se divide para cada rama. Esto se aplica de igual manera en los circuitos RC en paralelo, pero considerando que existe una parte imaginaria (de la capacitancia) y una parte real (de la resistencia) para el valor de la corriente del circuito.
+   - Los circuitos RC en paralelo, se pueden analizar análogamente como un circuito puramente resistivo con corriente directa, pero resulta conveniente emplear otras magnitudes como lo son la conductancia, susceptancia y la admitancia, con el fin de facilitar el análisis y hallar de manera rápida la impedancia del circuito. 
+   - Dado un circuito en paralelo, es posible obtener un circuito equivalente a este pero en serie. Para lo cual se emplea el concepto del triángulo de impedancias. Por ello es necesario conocer la impedancia total del circuito en paralelo, y en base a ella se puede determinar los valores que deben tener la resistencia y la capacitancia para obtener un circuito equivalente en serie.
 
 8. BIBLIOGRAFÍA
+   - Floyd, T.L.(2007). Principios de circuitos eléctricos (Octava ed.).
