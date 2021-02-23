@@ -12,7 +12,7 @@
 
 3. DESARROLLO
 
-    ![Ejercicios 2_Página_01](https://user-images.githubusercontent.com/75439689/108791829-fc414680-754d-11eb-87cc-fa65b0471727.jpg)
+    ![Ejercicios](https://user-images.githubusercontent.com/75439689/108792622-b2596000-754f-11eb-9fd4-d6a7eff08d01.jpg)
 ![Ejercicios 2_Página_02](https://user-images.githubusercontent.com/75439689/108791831-fc414680-754d-11eb-949d-2aea8b655756.jpg)
 ![Ejercicios 2_Página_03](https://user-images.githubusercontent.com/75439689/108791834-fcd9dd00-754d-11eb-8000-fca91c57c086.jpg)
 ![Ejercicios 2_Página_04](https://user-images.githubusercontent.com/75439689/108791836-fcd9dd00-754d-11eb-9223-577695d84061.jpg)
